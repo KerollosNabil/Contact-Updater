@@ -1,5 +1,5 @@
 # Contact-Updater
-<img src="emojiArt1.gif" width="500"/>
+<img src="ContactUpdater.gif" width="500"/>
 
 # discreption
 
